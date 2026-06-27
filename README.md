@@ -1,3 +1,18 @@
 # NBA Data Analysis
 
-This project analyzes NBA player statistics using SQL and Python. It includes data cleaning, exploratory data analysis (EDA), statistical testing, and data visualization to identify player performance trends.
+## Overview
+This project analyzes NBA player statistics using Python, SQL, and Exploratory Data Analysis (EDA).
+
+## Tools
+- Python
+- Pandas
+- NumPy
+- SQL
+- Jupyter Notebook
+
+## Features
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Player performance comparison
+- Data visualization

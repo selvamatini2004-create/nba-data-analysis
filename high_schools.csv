@@ -1,0 +1,2522 @@
+high_school_id,high_school_name
+0,Bloomfield 
+1,John Jay 
+2,Power Memorial 
+3,Gulfport 
+4,Lycee Aristide Briand 
+5,Wheeler 
+6,Saint Joseph 
+7,Fairdale 
+8,Etna 
+9,
+10,Our Savior Lutheran 
+11,Eisenhower 
+12,Metropolitan 
+13,Palos Verdes 
+14,Troy 
+15,Mesquite Horn 
+16,Putnam City 
+17,South Fulton 
+18,Westchester 
+19,Mount St. Joseph 
+20,Central Gwinnett 
+21,Hartford Public 
+22,Notre Dame Prep 
+23,Snyder 
+24,Northside in P
+25,Victoria Rock Prep 
+26,Saint Pius X 
+27,Brookline in Brookl
+28,Centennial 
+29,Oak Park HS 
+30,Crockett 
+31,Westinghouse 
+32,De Smet Jesuit 
+33,North Eugene 
+34,Casa Grande 
+35,West Oaks Academy 
+36,Montverde Academy 
+37,Brophy College Preparatory 
+38,Roosevelt 
+39,Canterbury Academy 
+40,Thomas Jefferson in Bloom
+41,Seagoville 
+42,Wamogo 
+43,Curie 
+44,Oak Hill Academy 
+45,Jordan 
+46,William M. Raines 
+47,Linganore 
+48,Athlete Institute 
+49,Heritage Hall School 
+50,Concord 
+51,Denby 
+52,Hamilton Heights Christian 
+53,Chrysler 
+54,Word of God Academy 
+55,Manual Arts 
+56,Providence School 
+57,The Episcopal Academy 
+58,New Hanover in Wilm
+59,Pennsbury 
+60,Wyandotte 
+61,Shawnee 
+62,Milton 
+63,Hillcrest 
+64,Desert Ridge 
+65,Crane Technical Preparatory 
+66,Richard Montgomery 
+67,McClymonds 
+68,East 
+69,Lynwood 
+70,McEachern in Powder Spr
+71,Hoboken 
+72,Benjamin Cardozo 
+73,Okota Grammar School 
+74,Christ the King 
+75,Walther Lutheran 
+76,Norcross 
+77,Monarch 
+78,Monroe 
+79,Iola 
+80,DeLaSalle in M
+81,Maryvale 
+82,Laurinburg Institute in Laur
+83,Thomas Edison 
+84,Portland 
+85,North Torrance 
+86,Doss 
+87,Roth 
+88,St. Francis de Sales 
+89,Evan E. Worthing 
+90,Metro 
+91,Junction City 
+92,Mullens 
+93,Montrose Christian School 
+94,Archbishop Molloy 
+95,St. Anthony 
+96,George Washington Carver High School of Engineering and Science 
+97,Simeon 
+98,Rancho Alamitos 
+99,Bowen 
+100,Oak Ridge 
+101,Crim 
+102,East Atlanta 
+103,Creighton Preparatory School 
+104,Bland 
+105,Catholic Regional College 
+106,Dominican 
+107,Towson Catholic 
+108,Rancho 
+109,Dawson 
+110,Jefferson City 
+111,Pershing 
+112,Padre Anacleto 
+113,Taft 
+114,Lafayette 
+115,DeWitt Clinton 
+116,Neshaminy 
+117,Thornton Township 
+118,Grant 
+119,La Salle College 
+120,Jefferson 
+121,Brother Rice in Birm
+122,Vallejo 
+123,Central 
+124,Ashbrook 
+125,Peekskill 
+126,Spring Woods 
+127,New Rochelle 
+128,McCallum in Aust
+129,St. Xavier in Cinc
+130,Colegio Santiago Apostol 
+131,South Oak Cliff 
+132,De La Salle 
+133,Frayser 
+134,Athens 
+135,Homestead 
+136,Otterbein in Otterbe
+137,Evans 
+138,Weequahic 
+139,Horace Mann 
+140,John Muir 
+141,Hightower 
+142,L
+143,Las Plumas 
+144,DeMatha Catholic 
+145,Verbum Dei 
+146,Malcolm X Shabazz 
+147,Hopkinsville in Hopk
+148,Westside 
+149,Blackford 
+150,INSEP 
+151,Etiwanda 
+152,Hillcrest Prep 
+153,Victory Christian 
+154,The Oakridge School in Arl
+155,Galena 
+156,Kraljevo 
+157,McKeel Academy 
+158,Male 
+159,Moon 
+160,Harding 
+161,Sierra Canyon 
+162,Burgess 
+163,Xaverian 
+164,Bladensburg 
+165,Loyola 
+166,Australian Institute of Sport 
+167,Olney 
+168,Paul Laurence Dunbar 
+169,Madison 
+170,Scott City 
+171,Old Saybrook 
+172,Hamilton 
+173,St. Joseph 
+174,South 
+175,Chino Hills in Ch
+176,Garey 
+177,New Castle 
+178,Westtown School 
+179,Seton Catholic 
+180,West Philadelphia 
+181,Cimarron Memorial 
+182,Southwestern 
+183,Roman Catholic 
+184,MacDuffie School 
+185,Hampton 
+186,Pruitt 
+187,Carbondale 
+188,Miami Christian School 
+189,Yorktown 
+190,Weslaco 
+191,Leeds 
+192,Berkeley 
+193,Ames 
+194,Stillwater 
+195,Del Campo 
+196,Cardinal Newman 
+197,Ramona 
+198,Mervo 
+199,Lincoln 
+200,Cathedral 
+201,Shamokin in Shamok
+202,Lehman 
+203,Penn Hills 
+204,Rice 
+205,Wellington in Well
+206,Richwood 
+207,Clarksdale 
+208,De La Salle Catholic 
+209,Roselle Park 
+210,La Salle Academy 
+211,Santa Barbara 
+212,Brewster Academy 
+213,Eleanor Roosevelt 
+214,Capitol 
+215,Seaholm in Birm
+216,McKinley in Wash
+217,St. Anthony Catholic 
+218,Spruce 
+219,McAdams 
+220,University 
+221,Wilson 
+222,Detroit Country Day 
+223,West Aurora 
+224,Springfield in Spr
+225,Cane Ridge 
+226,Midvale 
+227,Sa
+228,Phelps Vocational in Wash
+229,Bertie in W
+230,Princeton 
+231,Thomas Jefferson 
+232,Chaminade College Prep 
+233,H.A. Hunt 
+234,Breckenridge County in Hard
+235,Fair Park 
+236,Moreno Valley 
+237,St. Francis 
+238,Woodville 
+239,Nathan Hale 
+240,Kittitas 
+241,Fairley 
+242,West Catholic 
+243,Camelback 
+244,Fifth Avenue 
+245,Bell Gardens 
+246,Melrose 
+247,Scotlandville Magnet 
+248,North Plainfield in North Pla
+249,Marengo 
+250,Flint Southwestern Academy in Fl
+251,Wyoming in Wyom
+252,Long Beach Polytechnic 
+253,Miami Killian 
+254,Academy of Holy Angels 
+255,Warsaw Community 
+256,J.T. Barber 
+257,The Patrick School 
+258,Marshall 
+259,Booker T. Washington 
+260,Picayune Memorial 
+261,Fauquier 
+262,Carroll 
+263,Fontana 
+264,Findlay Prep 
+265,Bellaire 
+266,Denton 
+267,Peabody 
+268,Preble 
+269,The Haverford School 
+270,Marquette University 
+271,DeSales Catholic 
+272,Windward 
+273,Live Oak 
+274,Benjamin Franklin 
+275,Red Land 
+276,Springfield Central in Spr
+277,Las Vegas 
+278,Huntington Prep in Hunt
+279,Franklin D. Roosevelt 
+280,Long Island City 
+281,Shadow Mountain 
+282,Edgewood 
+283,Valters Basketball School 
+284,Winchester in W
+285,George Washington 
+286,Spingarn in Wash
+287,Salesian Prep 
+288,Corbin in Corb
+289,Springs Valley 
+290,Winter Haven in W
+291,Effingham in Eff
+292,Duncanville 
+293,Highland Park 
+294,Cardinal Gibbons 
+295,Ridgeway 
+296,West Salem 
+297,William E. Grady Career and Technical 
+298,Toms River North 
+299,Deerfield 
+300,South Philadelphia 
+301,Schenley 
+302,McCullough 
+303,South Kent School 
+304,Garland 
+305,A.H. Parker in Birm
+306,Union 
+307,Glendale 
+308,Trenton Central 
+309,Chattahoochee 
+310,Monrovia 
+311,Summerville 
+312,Phillips Memorial 
+313,Parkrose 
+314,Mainland 
+315,Trico Consolidated 
+316,Millersburg Military Institute 
+317,San Bernardino in San Bernard
+318,DeSoto 
+319,Xavier 
+320,Keller Central 
+321,Grand Rapids 
+322,Loyola Academy 
+323,Prolific Prep 
+324,Manual 
+325,Collins 
+326,The Ensworth School 
+327,Brandywine in Wilm
+328,Muncie Central 
+329,Vashon 
+330,Colwyn 
+331,Moss Point in Moss Po
+332,Union County 
+333,West Nottingham Academy 
+334,Omaha Technical 
+335,Groveport Madison 
+336,Eastlake 
+337,St. Peter the Apostle 
+338,Plymouth 
+339,Washington 
+340,Gorton 
+341,John F. Kennedy 
+342,George Washington Carver 
+343,Damase Boulanger 
+344,Archbishop Carroll in Wash
+345,Palma in Sal
+346,Kalamazoo Central 
+347,Rappahannock 
+348,La Lumiere School 
+349,Edison 
+350,Fort Madison 
+351,Fannie Carter 
+352,East Central 
+353,Lebanon 
+354,Seton Hall Prep 
+355,Havelock 
+356,Kirkpatrick 
+357,Proviso East 
+358,East Bakersfield 
+359,Frederick 
+360,Central Catholic 
+361,Capitol Hill 
+362,Mater Dei 
+363,Midwood 
+364,Greeneview 
+365,Long Branch 
+366,Hinds County Agricultural 
+367,Crystal City 
+368,Cowden 
+369,Burncoat 
+370,Emery County 
+371,Bartow 
+372,Redcliffe 
+373,Clifford J. Scott 
+374,La Cueva 
+375,St. V
+376,Winfield in W
+377,North 
+378,Holt in Burl
+379,Abraham Lincoln 
+380,Lompoc 
+381,Garden City 
+382,Blue Valley Northwest HS 
+383,Orangeville Prep 
+384,Monsignor Scanlan 
+385,Zachary 
+386,Cleveland Heights 
+387,Saint Augustine 
+388,Newport School in Kens
+389,Northside 
+390,Fayetteville 
+391,Locust Valley 
+392,Hobbs 
+393,Fairmont Senior 
+394,Great Valley 
+395,Archbishop Coleman Carroll 
+396,Rockville Centre 
+397,Roselle Catholic 
+398,Hamtramck 
+399,Henrico 
+400,Flint Northern in Fl
+401,Clearwater 
+402,Kennedy 
+403,Archbishop Ryan HS 
+404,Snohomish 
+405,The Peninsula School 
+406,Lower Merion 
+407,Greater Atlanta Christian 
+408,New Brunswick 
+409,Friona 
+410,John Bartram 
+411,Franklin 
+412,McNeil in Aust
+413,White Castle 
+414,Tucker 
+415,East Union 
+416,Tampa Catholic 
+417,Leo 
+418,Ocean View in Hunt
+419,Vermont Academy 
+420,St. Thomas More School 
+421,Dr. Phillips 
+422,North Brunswick 
+423,Seneca Vocational 
+424,The Bolles School 
+425,Chaminade Julienne 
+426,South San Antonio West Campus 
+427,St. Raymond 
+428,Cass Technical 
+429,Carl Hayden 
+430,Vandegrift in Aust
+431,Oakland 
+432,Dixon 
+433,East Ridge 
+434,Lee 
+435,Glynn Academy 
+436,Long Beach 
+437,Cheyenne 
+438,West Memphis 
+439,Winnfield in W
+440,Sylvan Hills 
+441,West Fulton 
+442,Wingate 
+443,Englewood 
+444,Iowa 
+445,Farragut Career Academy 
+446,Tilden 
+447,Crenshaw 
+448,Adlai Stevenson in L
+449,Salem 
+450,Fountain Valley HS in Founta
+451,New Hampton School 
+452,Columbia 
+453,Emerson 
+454,Newburgh Free Academy 
+455,Madison Central 
+456,Governor Dummer Academy 
+457,University Heights Academy in Hopk
+458,Thornridge 
+459,Woodbury 
+460,La Costa Canyon 
+461,Lane 
+462,Poway 
+463,Grand Rapids Christian 
+464,Vincent 
+465,Valley in West Des Mo
+466,Kinston in K
+467,Pacific in San Bernad
+468,Bayside 
+469,Northern 
+470,Schuyler 
+471,Mariner 
+472,Northland 
+473,Franklin Central 
+474,Grandview 
+475,Avery County 
+476,Elgin in Elg
+477,Woodlawn 
+478,McLeansboro 
+479,Hamden 
+480,West Charlotte 
+481,Wells 
+482,Muskegon Heights 
+483,Saint Martin de Porres 
+484,Charles Evans Hughes 
+485,Holland 
+486,Meade 
+487,Washington Park in Rac
+488,Rolling Hills in Roll
+489,McComb 
+490,Riverside Academy 
+491,Tomball 
+492,Christ Church Episcopal HS 
+493,Kingsbury 
+494,Oakwood 
+495,Bay View 
+496,Hinsdale Central in H
+497,Sutherland 
+498,Duquesne 
+499,Rochester 
+500,Score Academy 
+501,Alpharetta 
+502,Davidson 
+503,Academy of Business and Technology in Melv
+504,Cliffside Park 
+505,Lake Howell in W
+506,West Oso 
+507,John C. Fremont 
+508,Greenville 
+509,Lowell 
+510,Waukegan 
+511,Withrow in Cinc
+512,Cham
+513,A.F. Adderly 
+514,Conard 
+515,Morningside 
+516,Teaneck 
+517,Biloxi 
+518,Marian 
+519,Unity 
+520,NSU University School 
+521,Von Steuben 
+522,Ottawa Hills 
+523,Lisbon Central 
+524,Garden Grove 
+525,Bingham 
+526,Edison in M
+527,Northwest 
+528,Wichita Heights 
+529,Mackin in Wash
+530,Arcadia Valley 
+531,Kingsland in K
+532,Wallace Rose Hill 
+533,Bristow 
+534,Archbishop Williams in Bra
+535,Saint Frances Academy 
+536,John Carroll in Birm
+537,Stephen F. Austin 
+538,Middletown 
+539,Doral Academy Preparatory School 
+540,Silver Creek 
+541,Redemptorist 
+542,LaPoynor 
+543,Forest Hill 
+544,Long Island Lutheran 
+545,Perry 
+546,Pace Academy 
+547,Bettendorf 
+548,Elk Grove 
+549,Burroughs 
+550,Newton in Cov
+551,Father Lopez 
+552,Jim Hill 
+553,Houston 
+554,Lithonia 
+555,J.O. Johnson 
+556,Olathe Northwest 
+557,Cosby 
+558,Charles Drew 
+559,Dominguez 
+560,Piscataway 
+561,Albany 
+562,Bartlett 
+563,Overbrook 
+564,Eastern in Wash
+565,Fairview 
+566,Bishop Loughlin Memorial 
+567,Everett 
+568,Briarcrest 
+569,Benton Harbor 
+570,McKinley 
+571,Apollo 
+572,Daviess County 
+573,Portage 
+574,Brooklyn Prep 
+575,Brooklyn Tech 
+576,Apopka 
+577,Harrison 
+578,South Mountain 
+579,DuSable 
+580,Holy Cross in Flush
+581,Tuscaloosa Academy 
+582,Mayfair 
+583,Gwynn Park in Brandyw
+584,Foothill 
+585,White Station 
+586,Holy Cross 
+587,St. Catherine in Rac
+588,Pleasant Grove 
+589,Saint Francis Prep 
+590,Macomber 
+591,Rolling Meadows in Roll
+592,Rainier Beach 
+593,Samuel Fels 
+594,Northeast Catholic 
+595,Forest Hills 
+596,Gonzaga in Wash
+597,Ecorse 
+598,North Baltimore 
+599,Rahway 
+600,Clayton 
+601,Germantown 
+602,Danville 
+603,Desert Vista 
+604,Pinson Valley in P
+605,Wagner 
+606,Hialeah Gardens 
+607,Naperville Central 
+608,Miami Carol City 
+609,Legacy Charter School 
+610,Lake Wales 
+611,Linden McKinley 
+612,Xenia 
+613,Milbrook 
+614,Faith Baptist Christian Academy 
+615,The Vanguard School in Colorado Spr
+616,Hearne 
+617,Sierra Vista in Baldw
+618,Dorman 
+619,Baraboo 
+620,Gibbs 
+621,Hopkins in M
+622,Aurora 
+623,Ypsilanti 
+624,Olympic 
+625,North Community in M
+626,E. Flora 
+627,Burgin in Burg
+628,Paxon 
+629,Greenbriar East 
+630,Catholic Central in Spr
+631,Scott 
+632,Benton 
+633,Jackson 
+634,Institute of Technology at Syracuse Central 
+635,Simon Gratz 
+636,Bishop Gorman 
+637,Provo 
+638,Iowa Falls 
+639,Berwick 
+640,Beverly Hills 
+641,Carr Creek 
+642,Mossville 
+643,Bolsa Grande 
+644,Ashland 
+645,Lawrence North 
+646,Archbishop Stepinac in White Pla
+647,Anderson County 
+648,Fremont 
+649,Adelphi Academy 
+650,Garfield 
+651,Van Nuys 
+652,Weber 
+653,Harvard 
+654,Lincoln in L
+655,Edgewood in West Cov
+656,Trenton Catholic 
+657,Christian Brothers 
+658,Covenant Christian Ministries Academy 
+659,Libby 
+660,Holy Spirit College 
+661,Glenbrook South 
+662,Lakewood 
+663,Kashmere 
+664,Pasadena 
+665,Telfair County 
+666,Coon Rapids 
+667,Hermitage 
+668,Ewing in Ew
+669,A.C. Flora 
+670,John Hersey in Arl
+671,Minoa 
+672,Bay City Western 
+673,Palo Verde 
+674,St. John Bosco 
+675,Piedmont Hills 
+676,Southern 
+677,Marshfield 
+678,St. James 
+679,Callaway 
+680,Randallstown 
+681,LeFlore Magnet 
+682,Andrew Jackson 
+683,Proviso West 
+684,Roxborough 
+685,Hazard 
+686,Price 
+687,Great Falls 
+688,Comstock 
+689,Samuel Gompers 
+690,North Crowley 
+691,Renaissance 
+692,Richmond 
+693,Pitman 
+694,Salinas in Sal
+695,Southwest Atlanta Christian Academy 
+696,Niles 
+697,Hill Park 
+698,Walter Williams in Burl
+699,DeVilbiss 
+700,Crossroads 
+701,Worcester Academy 
+702,Bakersfield 
+703,Manley Career Academy 
+704,Luzerne 
+705,Christian Brothers Academy in L
+706,Downey 
+707,Carrollton 
+708,Villa Rica 
+709,Coral Gables 
+710,Coronado 
+711,Wilmington in Wilm
+712,Johnstown 
+713,Carver 
+714,Thomson 
+715,Erasmus Hall 
+716,Bowie in Arl
+717,Potomac 
+718,Canton South 
+719,San Leandro 
+720,Glenn Hills 
+721,Cacak 
+722,New Bedford 
+723,Finney 
+724,Duxbury 
+725,Fort Defiance 
+726,Thornwood 
+727,Eastern Alamance 
+728,Charlotte Christian 
+729,Hillsboro 
+730,Saint Patrick 
+731,Lawrence County 
+732,Southport 
+733,Maggie Walker 
+734,St. Francis DeSales 
+735,Edgewater 
+736,William Fleming 
+737,Cookeville 
+738,Sunrise Christian Academy 
+739,Classen 
+740,Western 
+741,Milford Academy 
+742,Akron South 
+743,Charles D. Owen in Black Mounta
+744,Nashville 
+745,John Harris 
+746,Perspectives Charter School 
+747,Fort Pierce Central 
+748,Hyde Park 
+749,Monaca 
+750,McGavock 
+751,Stephens County 
+752,Muskegon 
+753,Benedictine 
+754,Kensington 
+755,Louisiana State University Laboratory School 
+756,Cathedral Latin 
+757,Lake Braddock Secondary 
+758,La Crosse 
+759,Salem Academy 
+760,Ligon 
+761,Great Bridge 
+762,Thibodaux 
+763,Boys 
+764,Eastern District 
+765,Bishop Mose Davis 
+766,Lewis County 
+767,Manhattan College 
+768,Southaven 
+769,Halifax County 
+770,Plano West 
+771,Nederland 
+772,South Mecklenburg 
+773,Atlantic City 
+774,Calhoun 
+775,Deep Creek 
+776,Saginaw in Sag
+777,Lew Wallace 
+778,Sam Houston 
+779,York Community 
+780,Woodbridge in Irv
+781,The Rock School in Ga
+782,Austin Catholic 
+783,Countryside 
+784,Chippewa Falls 
+785,Westbury 
+786,Compton 
+787,Lancaster 
+788,Mount Carmel 
+789,Sheboygan Lutheran 
+790,Suffield Academy 
+791,Santa Monica 
+792,Haywood 
+793,Fox Tech 
+794,West Side 
+795,Mount Eden 
+796,Merchantville 
+797,Blair Academy 
+798,South Stokes 
+799,Baker 
+800,Montini Catholic 
+801,Winchendon School in W
+802,Enloe 
+803,Elma 
+804,Flushing in Flush
+805,North Providence 
+806,Salesianum School in Wilm
+807,Florida Preparatory Academy 
+808,Blue Ridge School 
+809,New American 
+810,Putnam Science Academy 
+811,Tremblay En France 
+812,Wichita Collegiate 
+813,Prairie 
+814,Federal Way 
+815,Purcell Marian in Cinc
+816,Pendleton 
+817,Jonesboro 
+818,Goodrich 
+819,Riverside Polytech 
+820,Arthur Hill in Sag
+821,Omaha Central 
+822,Nova 
+823,Chesterton 
+824,Combine Academy in L
+825,Benedictine Military Academy 
+826,East Mecklenburg 
+827,Mira Costa 
+828,Central in B
+829,Calvert Hall 
+830,Saunders 
+831,Luther Burbank 
+832,Clark 
+833,St. Agnes 
+834,Union Hill 
+835,Dillard 
+836,Archer 
+837,Frederick Douglass 
+838,Maranatha 
+839,Yates 
+840,Providence Day School 
+841,Quincy in Qu
+842,Colbert County 
+843,Pahokee 
+844,William Cullen Bryant 
+845,Spring Valley 
+846,Kapaun Mt. Carmel 
+847,Valparaiso 
+848,J.F. Shields 
+849,Sterling 
+850,Corliss 
+851,Boston College 
+852,Grossmont 
+853,Redemption Christian Academy 
+854,Torrey Pines 
+855,Horizon 
+856,St. Charles Prep 
+857,Salmen 
+858,Classical 
+859,Natchitoches Central 
+860,Sumner 
+861,Millington in Mill
+862,Nazareth Regional 
+863,Jesuit 
+864,New London 
+865,The Perkiomen School 
+866,West End in Birm
+867,National Christian Academy in Fort Wash
+868,Dunbar in Wash
+869,Aliquippa 
+870,IMG Academy 
+871,Senn 
+872,Proctor Academy 
+873,Broadmoor 
+874,Encina 
+875,Moline in Mol
+876,Schurz 
+877,Pine Bush in P
+878,Westminster in Westm
+879,Ballard 
+880,Fenwick 
+881,Springville in Spr
+882,Westbury Christian School 
+883,JED Pestalozzi 
+884,The Cannon School 
+885,Milwaukee Trade and Technical 
+886,Centralia 
+887,Hayfield 
+888,Leaside 
+889,Northeastern 
+890,Victory International Institute 
+891,Crispus Attucks 
+892,MacArthur 
+893,Therrell 
+894,Carlisle 
+895,Greene Central 
+896,Atascocita 
+897,Lake Clifton 
+898,Miami Senior 
+899,Julia Richman 
+900,Marion 
+901,Hudson 
+902,Imhotep Institute Charter 
+903,Mountain Pointe 
+904,Weaver 
+905,South Bend Central 
+906,Monterey 
+907,Hancock 
+908,Harding in Sa
+909,Cleveland 
+910,Rice Lake 
+911,Daniel Boone 
+912,Pioneer 
+913,Cholla 
+914,Parker 
+915,Marietta 
+916,Eustis 
+917,Lanier 
+918,Savannah 
+919,Maria Regina M.A.V.O. 
+920,Tipton 
+921,Tecumseh 
+922,David W. Carter 
+923,Don Bosco Technical Institute 
+924,Howard Career Center in Wilm
+925,Dreher 
+926,Lower Richland in Hopk
+927,Rhinelander in Rh
+928,Ventura 
+929,George Wythe 
+930,Automotive 
+931,El Segundo 
+932,New Knoxville 
+933,Reynolds 
+934,Hillhouse 
+935,St. Michael the Archangel 
+936,Justin F. Kimball 
+937,Crossett 
+938,Woodham 
+939,American Christian School 
+940,Willowridge 
+941,Cambridge R
+942,Lake Ginninderra 
+943,San Dieguito in Enc
+944,Liberty Christian Prep 
+945,Technology 
+946,Winslow in W
+947,Flint Northwestern in Fl
+948,Houston Academy 
+949,Artesia 
+950,South Atlanta 
+951,Ralston Valley 
+952,AZ Compass Prep 
+953,Zephyrhills 
+954,Alpena 
+955,Lexington in Lex
+956,DePaul Academy 
+957,New Utrecht 
+958,Santa Rita 
+959,CCSE Prep Academy 
+960,Millenium 
+961,Inglewood 
+962,Latta 
+963,South Shore 
+964,Port Richmond 
+965,Everett in Lans
+966,Advanced Prep International 
+967,Skyline 
+968,Colegio Objectivo 
+969,Park Tudor 
+970,Ogden 
+971,Los Alamitos 
+972,Minisink Valley 
+973,Holy Family 
+974,I.C. Norcom 
+975,Washington in Wash
+976,Parkview 
+977,Damien 
+978,Newtown 
+979,Arcadia 
+980,Nokomis Regional 
+981,Duluth 
+982,Elston 
+983,Camden 
+984,Mater Christi 
+985,Norman Thomas 
+986,Berkley 
+987,Hunter Huss 
+988,Niagara Falls 
+989,Bellarmine Prep 
+990,Jeffersonville 
+991,Cooley 
+992,Assumption 
+993,Sexton in Lans
+994,Benjamin Banneker Academy 
+995,Amanda Elzy 
+996,Milby 
+997,Holy Spirit 
+998,Folsom 
+999,Rocky Mount 
+1000,Bandon 
+1001,Chipley 
+1002,Jefferson Davis 
+1003,Shaler Area 
+1004,Springfield South in Spr
+1005,James Madison 
+1006,Saint Thomas Aquinas in New Brita
+1007,South Catholic 
+1008,David B. Oliver 
+1009,Cypress Lakes 
+1010,Northwestern 
+1011,Gordon 
+1012,East Side 
+1013,Card
+1014,Battle Ground 
+1015,Montgomery Blair in Silver Spr
+1016,Norfolk 
+1017,Westwind Prep 
+1018,Evergreen 
+1019,Bishop Ward 
+1020,L.W. Higgins 
+1021,Strake Jesuit 
+1022,David T. Howard 
+1023,Webster in M
+1024,Gardena 
+1025,Glens Falls 
+1026,Canarsie 
+1027,Stoneridge Prep 
+1028,Farnham Heath End School 
+1029,Borah 
+1030,Anderson 
+1031,Seton Academy 
+1032,Shawnee Mission West 
+1033,Fairfax 
+1034,Wheat Ridge 
+1035,Humboldt in Sa
+1036,Port Angeles 
+1037,Bryant 
+1038,Riverside HS 
+1039,Poly 
+1040,Marshall County 
+1041,Murray in Saint August
+1042,Stadium 
+1043,Wehrle 
+1044,Archbishop Wood in Warm
+1045,El Dorado 
+1046,Saint Bernard 
+1047,Madison West 
+1048,Boylan Central Catholic 
+1049,Roxana 
+1050,Galileo 
+1051,Christian Life Academy 
+1052,Corvallis 
+1053,Lanphier in Spr
+1054,Durham 
+1055,Colegio Abel Bravo 
+1056,New Market 
+1057,Clearfield 
+1058,SPIRE Academy 
+1059,Star Valley 
+1060,Brentwood Academy 
+1061,Hibbing in Hibb
+1062,East St. Louis 
+1063,Treadwell 
+1064,Regis 
+1065,Mauldin in Mauld
+1066,Morgan Park 
+1067,San Clemente 
+1068,Rogers 
+1069,West Warwick 
+1070,Bassick 
+1071,Lewis Palmer 
+1072,Maret in Wash
+1073,Lausanne Collegiate School 
+1074,Elizabeth 
+1075,Archbishop Spalding 
+1076,Hoquiam 
+1077,Albert Park 
+1078,William T. Dwyer 
+1079,Lewisville 
+1080,Knight 
+1081,Union Catholic Regional in Scotch Pla
+1082,North Clayton 
+1083,Laurel Highlands 
+1084,Martin Luther King 
+1085,Jenkintown in Jenk
+1086,Jones 
+1087,Bradley 
+1088,Roosevelt in Des Mo
+1089,Calvary Christian 
+1090,Rockingham 
+1091,Hemingway in Hem
+1092,John Marshall 
+1093,Wesleyan Christian Academy in High Po
+1094,Overland 
+1095,Rich Central 
+1096,Bethel Park 
+1097,Atkins in W
+1098,Burgess Landrum 
+1099,The Barstow School 
+1100,Bryan Station in Lex
+1101,Sylacauga 
+1102,Allentown Preparatory School 
+1103,Coosa 
+1104,Jambol 
+1105,Cedar Grove 
+1106,Masuk 
+1107,Stillman Valley 
+1108,Suncoast 
+1109,Wilby 
+1110,Boulder 
+1111,El Cerrito 
+1112,Polytechnic 
+1113,William Penn Charter School 
+1114,Althoff Catholic 
+1115,Archbishop Mitty 
+1116,Mount Vernon 
+1117,North Central 
+1118,Keenan 
+1119,Stone Mountain in Stone Mounta
+1120,Lane Technical 
+1121,Tuley 
+1122,Morris 
+1123,Broughton 
+1124,Warren Central 
+1125,Brandon 
+1126,White Plains in White Pla
+1127,Sidney Lanier 
+1128,Elkhart 
+1129,Grace King 
+1130,Georgetown 
+1131,Hancock Central 
+1132,Barbour County Training School 
+1133,Martinsburg in Mart
+1134,Greenfield 
+1135,Scarsdale 
+1136,Alexander 
+1137,Emmaus 
+1138,Bloomington in Bloom
+1139,Fort Cobb 
+1140,Wheatley 
+1141,Bolton in Arl
+1142,Benson Polytechnic 
+1143,Cedar Falls HS 
+1144,Beechcroft 
+1145,Paul VI 
+1146,Gulf Shores Academy 
+1147,San Joaquin Memorial 
+1148,St. Jude 
+1149,Brunswick 
+1150,The K
+1151,Carver in Birm
+1152,Higgins 
+1153,Hirsch Metro 
+1154,August Martin 
+1155,Gainesville in Ga
+1156,Douglass in Hunt
+1157,Coolidge in Wash
+1158,Timberline 
+1159,Crawford 
+1160,Wichita East 
+1161,Oklahoma Christian School 
+1162,Shelby 
+1163,The Woodlands College Park 
+1164,Morton 
+1165,Dean Academy in Frankl
+1166,Swissvale 
+1167,Fermin Lausen 
+1168,Cantwell 
+1169,Martins Ferry in Mart
+1170,Warren Central in Bowl
+1171,Holy Rosary 
+1172,Mercer Island 
+1173,Mount Saint Michael 
+1174,Curtis 
+1175,Walt Whitman in Hunt
+1176,Manuel Fajardo 
+1177,South Side 
+1178,Lemars 
+1179,Lawrence Central 
+1180,Peoria Central 
+1181,Meisei 
+1182,Noblesville 
+1183,Owensboro 
+1184,Cardinal Mooney 
+1185,Saint Xavier 
+1186,Ann Arbor 
+1187,Mount Clemens 
+1188,Dudley 
+1189,House 
+1190,Huntington Beach in Hunt
+1191,Oshkosh North 
+1192,Romulus 
+1193,Cape Henry Collegiate in Virg
+1194,Luverne 
+1195,Middle Township 
+1196,Alan B. Shephard 
+1197,Rock Island 
+1198,Malverne 
+1199,Middleton 
+1200,Dunbar in Lex
+1201,Lone Peak 
+1202,Coatesville Area 
+1203,Charlestown 
+1204,Sewanhaka 
+1205,Thorbecke 
+1206,Crestview 
+1207,Carmel 
+1208,Fordson 
+1209,Little Elm 
+1210,Griffin in Griff
+1211,Zaneis Consolidated 
+1212,Great Neck 
+1213,Pulaski Academy 
+1214,Foreman 
+1215,Poplar Bluff 
+1216,Dowling in West Des Mo
+1217,Centennial Secondary 
+1218,Mountain View 
+1219,Pulaski County 
+1220,Beloit Memorial 
+1221,Andrean 
+1222,Miami Palmetto in P
+1223,Eastern 
+1224,Carver Vocational 
+1225,Nacogdoches 
+1226,Notre Dame 
+1227,North Shore 
+1228,Don Bosco Preparatory HS 
+1229,Pebblebrook 
+1230,Meadowbrook 
+1231,Quigley South 
+1232,Kiser 
+1233,Marist School 
+1234,North Edgecombe 
+1235,St. Charles 
+1236,Pioneer Valley Regional 
+1237,Scotland County 
+1238,Murrah 
+1239,Dunbar 
+1240,Battle Ground Academy in Frankl
+1241,Hamilton Southeastern 
+1242,Chelan 
+1243,Martin Luther King Jr. 
+1244,Redford 
+1245,Blue Springs in Blue Spr
+1246,South Garland 
+1247,Half Hollow Hills West 
+1248,Travis 
+1249,Woodward 
+1250,Sidwell Friends in Wash
+1251,Pascagoula 
+1252,Beaumont 
+1253,Taylor County 
+1254,Clarksville 
+1255,Independence 
+1256,Perry County 
+1257,Lafayette in Lex
+1258,Stevens Point Area in Stevens Po
+1259,Bridgeport 
+1260,Seattle Preparatory School 
+1261,Gaithersburg 
+1262,Huntington in Hunt
+1263,Modesto Christian 
+1264,Eula D. Britton 
+1265,Archbishop Moeller in Cinc
+1266,Aberdeen 
+1267,Whitmer 
+1268,Brownsburg 
+1269,Upper Yarra Secondary College 
+1270,Ethel Knight 
+1271,Snider 
+1272,Millcreek 
+1273,Jonesville 
+1274,Brebeuf Jesuit 
+1275,Warren County 
+1276,Huguenot 
+1277,Carlton J. Kell 
+1278,Ben Davis 
+1279,Claremont 
+1280,Orr 
+1281,South Grand Prairie 
+1282,Sickles 
+1283,McPherson 
+1284,Quitman County 
+1285,West 
+1286,Dover 
+1287,Vocational in M
+1288,Miami Norland 
+1289,Durfee 
+1290,Simon Bolivar 
+1291,Whitnall 
+1292,Landon School 
+1293,Oceanside 
+1294,Georgetown Preparatory School 
+1295,J.F. Webb 
+1296,Brother Rice 
+1297,Monte Vista 
+1298,Jones Valley in Birm
+1299,Archbishop Curley 
+1300,Instituto Alvaro Guiao 
+1301,Bishop Ford 
+1302,Broad Ripple 
+1303,South Lakes 
+1304,The Patterson School 
+1305,Belleville East 
+1306,Midland 
+1307,Branson 
+1308,Rutherford 
+1309,Liberty 
+1310,Hiram Johnson 
+1311,Sioux City West 
+1312,Franklin Township 
+1313,Gaston Day School 
+1314,Winton Woods in Cinc
+1315,Decatur Christian 
+1316,Rich East 
+1317,Jasper 
+1318,Holston Valley 
+1319,Austin 
+1320,Lincoln Park 
+1321,Campbell Hall 
+1322,Crescenta Valley 
+1323,Chester 
+1324,Township 
+1325,Minnehaha Academy in M
+1326,Hamilton Catholic 
+1327,Brinkley 
+1328,Swoyersville 
+1329,Franklin K. Lane 
+1330,Grambling in Grambl
+1331,Sylmar 
+1332,Meridian 
+1333,Simon Kenton 
+1334,Richardson 
+1335,Benson 
+1336,E.L. Bowsher 
+1337,Saint Thomas Military Academy in Sa
+1338,Robert E. Lee 
+1339,Grand Ledge 
+1340,Marian Christian 
+1341,Mississinewa 
+1342,Lyons Township 
+1343,Andalusia 
+1344,Belmont 
+1345,Queen Anne 
+1346,Hayward 
+1347,Widefield 
+1348,North Forsyth in W
+1349,Glenn 
+1350,Chicago Vocational Career Academy 
+1351,Bishop Lynch 
+1352,New Hope Academy 
+1353,Manhattan 
+1354,Shenendehowa Central 
+1355,C.M. Russell 
+1356,Voyager Academy 
+1357,Lakeview 
+1358,Robeson 
+1359,Beacon 
+1360,Freeport 
+1361,Christian Brothers College 
+1362,Walnut Hills in Cinc
+1363,Wash
+1364,Charleston 
+1365,Omaha South 
+1366,Pearl 
+1367,R.J. Reynolds in W
+1368,Pike 
+1369,Consortium Prep 
+1370,Mission Viejo 
+1371,St. Georges Tech 
+1372,Kennedy in Pla
+1373,Alhambra 
+1374,Highland Springs in Highland Spr
+1375,Berne 
+1376,Julian 
+1377,Batavia 
+1378,Altoona Area 
+1379,Bethel 
+1380,Hayes in Birm
+1381,Northwest Catholic 
+1382,Albany Academy 
+1383,Salisbury 
+1384,Northern Burlington County 
+1385,Midwest City 
+1386,Ridge View 
+1387,Lutheran Northwest 
+1388,Walter Cohen 
+1389,Homeschool Christian Youth Association 
+1390,Morehouse 
+1391,Creswell 
+1392,William Penn 
+1393,Beach 
+1394,Cardozo in Wash
+1395,Hamburg 
+1396,Williston 
+1397,Desert Pines 
+1398,Palmer in Colorado Spr
+1399,Valley 
+1400,Paint Branch 
+1401,Center Grove 
+1402,Fountain in Founta
+1403,Glendora 
+1404,Stow 
+1405,Windsor Forest 
+1406,Scottsburgh 
+1407,Stonewall Jackson 
+1408,North Side 
+1409,Pentacostal Christian Academy 
+1410,Oldsmar Christian School 
+1411,Amityville Memorial 
+1412,Lanier HS 
+1413,Miami Northwestern 
+1414,Providence 
+1415,Lodi 
+1416,Adolfo Camarillo 
+1417,McDonogh 35 
+1418,Roseburg 
+1419,Solanco 
+1420,New Kensington in New Kens
+1421,Washington Union 
+1422,Hubbard 
+1423,Prentiss 
+1424,Killeen 
+1425,Stephenson in Stone Mounta
+1426,Moon Valley 
+1427,Santa Fe 
+1428,Bloomington North in Bloom
+1429,Hoover 
+1430,Springfield Gardens 
+1431,Station Camp in Gallat
+1432,Culpeper County 
+1433,Sparta 
+1434,Bowbells 
+1435,Iona Prep 
+1436,Lutheran 
+1437,Junipero Serra 
+1438,Murray 
+1439,Dougherty Comprehensive 
+1440,St. John Neumann 
+1441,North Hollywood 
+1442,Stall 
+1443,Hug 
+1444,Edisto 
+1445,Our Lady of the Sacred Heart 
+1446,Marion Abramson 
+1447,Sequoia 
+1448,Haaren 
+1449,Brookhaven 
+1450,Flint Central in Fl
+1451,Maine Central Institute 
+1452,Trinity 
+1453,North Mecklenburg 
+1454,Parkdale 
+1455,Lake Weir 
+1456,Block 
+1457,Gulledge 
+1458,Sun Prairie 
+1459,Cheyenne East 
+1460,Messmer 
+1461,Taft in Cinc
+1462,Park View 
+1463,La Jolla 
+1464,Henry Ford 
+1465,The Webb School 
+1466,Sacramento 
+1467,Norview 
+1468,Providence St. Mel 
+1469,Lindblom 
+1470,Dorsey 
+1471,Union Center in Hunt
+1472,New Prague 
+1473,Longview 
+1474,San Gorgonio in San Bernard
+1475,Clairton 
+1476,Lake Highlands 
+1477,Saint Francis in Mounta
+1478,Corsicana 
+1479,Wakefield 
+1480,Belle Glade 
+1481,Chillicothe 
+1482,Kathleen 
+1483,Desha Central 
+1484,Aiken in Cinc
+1485,East Kemper 
+1486,South in M
+1487,Steinert 
+1488,Ball 
+1489,Archbishop Carroll 
+1490,Stratford 
+1491,Ely 
+1492,Barringer 
+1493,Barlow 
+1494,Sunshine 
+1495,Bishop Turner 
+1496,Orting in Ort
+1497,American 
+1498,McCall 
+1499,Commerce 
+1500,Orlando Christian Prep 
+1501,Evangelical Christian School 
+1502,Triple A Academy 
+1503,Dresden 
+1504,Lester 
+1505,Mount Dora 
+1506,Bishop Miege 
+1507,Apple Valley 
+1508,Harlan 
+1509,Wolf Project 
+1510,Teays Valley 
+1511,Shortridge 
+1512,Christian Life Center Academy 
+1513,Emsley A. Laney in Wilm
+1514,Northrop 
+1515,Allderdice 
+1516,Highland 
+1517,Bosco Institute in Crown Po
+1518,Saint Philip 
+1519,Anaconda 
+1520,Benet Academy 
+1521,Dixie Hollins in Sa
+1522,Gervais 
+1523,Woodside 
+1524,Ravenscroft 
+1525,Saint Dominic 
+1526,Arsenal Tech 
+1527,Franklin in Frankl
+1528,Ullman in Birm
+1529,Pacific Palisades 
+1530,De La Salle Institute 
+1531,Bluestone 
+1532,Croydon Hall Academy 
+1533,Roswell 
+1534,Woodward Academy 
+1535,Christ Presbyterian Academy 
+1536,Lemon Street 
+1537,Collins in Coll
+1538,Saint Joseph of Notre Dame 
+1539,Vincent in V
+1540,Bastrop 
+1541,Dobbins Technical 
+1542,Perth Amboy 
+1543,Fort Hamilton 
+1544,Hobbton 
+1545,Grove 
+1546,Appling County 
+1547,Brennan 
+1548,John McDonogh 
+1549,Fort Smith 
+1550,Plano East 
+1551,Hudson Catholic 
+1552,R.T. Coles 
+1553,Harry A. Burke 
+1554,Lawton 
+1555,East Lansing in East Lans
+1556,Frunzenskaya Sport School in Sa
+1557,Los Alamos 
+1558,K
+1559,Chaminade in M
+1560,Wayne 
+1561,Cape Coral 
+1562,Slater 
+1563,State 
+1564,Prairie View 
+1565,Braddock 
+1566,Pine Crest School 
+1567,Nottingham 
+1568,Port Jefferson 
+1569,Alta 
+1570,Wamego 
+1571,Wisconsin Lutheran 
+1572,Birmingham 
+1573,Center 
+1574,West Chicago 
+1575,Rocky 
+1576,Fitzgerald 
+1577,Catholic in Lex
+1578,Liberty Christian 
+1579,Pella 
+1580,Maple Heights 
+1581,Glen Oak 
+1582,Palatine Township in Palat
+1583,Fulda 
+1584,Linton 
+1585,Patrick Henry 
+1586,Webster Groves 
+1587,Neenah 
+1588,Tell City 
+1589,Big Sky 
+1590,Havre 
+1591,Wahlert 
+1592,Duluth Central 
+1593,Brentwood 
+1594,Community 
+1595,Rise Academy 
+1596,Saint Ignatius 
+1597,Marmac 
+1598,Northwest Guilford 
+1599,Bothell 
+1600,Gentry 
+1601,Evanston Township 
+1602,Nichols School 
+1603,East Technical 
+1604,Greece Athena 
+1605,Passaic County Technical Institute 
+1606,Geelong Grammar School 
+1607,Mounds View in Sa
+1608,Dollarway in P
+1609,Central Park Christian in Birm
+1610,Anchorage East 
+1611,New Albany 
+1612,Bennett 
+1613,Uniontown 
+1614,Leon Mba 
+1615,Somerville 
+1616,East Aurora 
+1617,St. Rita of Cascia 
+1618,Boston 
+1619,Bishop McNamara 
+1620,King Philip Regional 
+1621,Central in Picker
+1622,Foothills Christian 
+1623,David Lipscomb 
+1624,Reseda 
+1625,Corona del Sol 
+1626,John Randolph Tucker 
+1627,Palmyra 
+1628,Cahokia 
+1629,King 
+1630,Robinson in Rob
+1631,Gerstmeyer 
+1632,Pensacola 
+1633,Orono 
+1634,Pueblo 
+1635,Samuel F.B. Morse 
+1636,McKeesport 
+1637,Eastview in Br
+1638,Hazel Green 
+1639,Liberal 
+1640,Somerset Academy Losee 
+1641,Missoula 
+1642,Frankford 
+1643,Alief Elsik 
+1644,Ranney School in T
+1645,Mount Diablo 
+1646,Belleville Township HS West 
+1647,Gallatin Union in Gallat
+1648,Kokomo 
+1649,Palo Alto 
+1650,Woodrow Wilson 
+1651,Montgomery County in Mount Sterl
+1652,Buchtel 
+1653,Isidore Newman School 
+1654,Upper Darby 
+1655,Wichita North 
+1656,Elberfeld 
+1657,Reedley 
+1658,Christian Academy 
+1659,Ross Beatty 
+1660,Memorial 
+1661,Columbia Heights 
+1662,Greenway 
+1663,Waggener 
+1664,Morgan City 
+1665,Scotch College 
+1666,Cardinal Hayes 
+1667,Lake Oswego 
+1668,Northeast 
+1669,Hillside 
+1670,Raytown 
+1671,Connellsville 
+1672,Covina in Cov
+1673,Shaftesbury in W
+1674,Simi Valley 
+1675,Hutchinson Central Technical 
+1676,Saint Louis University 
+1677,Brainerd 
+1678,Buena Vista in Sag
+1679,Lakeville North 
+1680,Peru 
+1681,Wichita Falls 
+1682,Merced 
+1683,San Ramon Valley 
+1684,Spain Park 
+1685,LaSalle 
+1686,Eastern School of Commerce 
+1687,Nudgee College 
+1688,LaGrange 
+1689,Traverse City 
+1690,James Monroe 
+1691,Southwest 
+1692,Summerfield 
+1693,Petersburg 
+1694,NBA Academy Africa 
+1695,Fort Lee 
+1696,Tilton School 
+1697,The Villages Charter Schools 
+1698,Lawrence 
+1699,Butler 
+1700,Pinnacle 
+1701,Chaparral 
+1702,Saint Joseph Regional 
+1703,Daniel 
+1704,Lathrup 
+1705,Beecher in Fl
+1706,Farrell 
+1707,Helsinki Academy in Hels
+1708,Rangitoto School 
+1709,Jamaica 
+1710,Reading in Read
+1711,Takoma Academy 
+1712,Mackenzie 
+1713,Mount Juliet 
+1714,Druid 
+1715,Davie County 
+1716,Aldine Nimitz 
+1717,Saint Anthony 
+1718,Madison Prep 
+1719,Florida 
+1720,Cross Country 
+1721,Mitchell 
+1722,Bryan Adams 
+1723,Zanesville 
+1724,William Allen 
+1725,Bishop Timon 
+1726,Waxahachie 
+1727,Good Counsel 
+1728,Sussex Central 
+1729,Bloomfield Hills 
+1730,Elida 
+1731,NBA Academy Latin America 
+1732,South Cache 
+1733,Newman Smith 
+1734,Buchholz in Ga
+1735,Sandusky 
+1736,Will Rogers 
+1737,Wade Hampton 
+1738,Westover 
+1739,Vanguard 
+1740,Ben Smith 
+1741,Norfolk Christian 
+1742,Engineer
+1743,Morristown 
+1744,Manual Training 
+1745,Port Huron 
+1746,Quitman 
+1747,Holy Name 
+1748,Visalia 
+1749,Mahanoy Area 
+1750,Gate City 
+1751,Chartiers Valley 
+1752,Clarkston 
+1753,Fairmont Heights 
+1754,West Orange in W
+1755,Lima Senior 
+1756,Allen County 
+1757,Pendleton Heights 
+1758,John F. Kennedy in Will
+1759,Mabelvale 
+1760,Hales Franciscan 
+1761,Omaha North 
+1762,Wren HS 
+1763,Auburndale 
+1764,Arlington Country Day 
+1765,South Haven 
+1766,South Milwaukee 
+1767,Peninsula 
+1768,Mansfield 
+1769,Del Mar 
+1770,J.J. Pearce HS 
+1771,Washington Township 
+1772,Hammond 
+1773,Bennettsville 
+1774,Liberty County in H
+1775,The Southport School 
+1776,Westerly 
+1777,Herscher 
+1778,Wheeling Park in Wheel
+1779,Wilbur Wright 
+1780,Hazleton 
+1781,Bishop Eustace Prep 
+1782,Sagemont School 
+1783,Crespi Carmelite in Enc
+1784,Eau Claire 
+1785,Wilkie 
+1786,Dundee 
+1787,Saint Augustine College Preparatory School 
+1788,Goodpasture Christian 
+1789,Bountiful 
+1790,Lawndale 
+1791,Warrensville Heights 
+1792,Sonora 
+1793,Prime Prep Academy 
+1794,Ford City 
+1795,Westlake in Aust
+1796,Joliet Catholic 
+1797,Askov 
+1798,Harper 
+1799,Scipio Jones 
+1800,Kranj 
+1801,Hemiska 
+1802,Stuyvesant 
+1803,East Noble 
+1804,Mason County 
+1805,More 
+1806,Bill Crothers Secondary School 
+1807,Goshen 
+1808,Loudoun Valley HS 
+1809,Catasauqua 
+1810,Thornlea 
+1811,Westchester Country Day in High Po
+1812,Marist College Canberra 
+1813,Owasso 
+1814,Vero Beach 
+1815,Froebel 
+1816,Washington County 
+1817,St. Andrews 
+1818,Kiln 
+1819,Columbus 
+1820,Swainsboro in Swa
+1821,L.G. Pinkston 
+1822,St. Martin 
+1823,Stephen F. Palmer 
+1824,Cardinal Dougherty 
+1825,Salesian 
+1826,Rancho Christian School 
+1827,The Bullis School 
+1828,Kenwood 
+1829,Harrison Technical 
+1830,Hall 
+1831,Kettering 
+1832,Bentonville 
+1833,Helen Cox 
+1834,Saint Maria Goretti 
+1835,Coosa Central 
+1836,Central Coosa 
+1837,Bolingbrook in Bol
+1838,East Chicago Central 
+1839,John Adams 
+1840,Blacksburg 
+1841,Cox Mill 
+1842,Crestwood 
+1843,Ocean Academy 
+1844,Minden in M
+1845,First Colonial in Virg
+1846,Waynesville 
+1847,Stevenson 
+1848,Prep Charter 
+1849,Frankfort Community 
+1850,Flint Beecher 
+1851,Landmark Christian School 
+1852,Thomas Johnson 
+1853,Mead 
+1854,Walla Walla 
+1855,Charlotte Latin 
+1856,Walton 
+1857,Balboa 
+1858,Regional 
+1859,Makelanrinne in Hels
+1860,Raleigh Egypt 
+1861,Indian River 
+1862,Ambridge 
+1863,Livermore 
+1864,Catholic Central in W
+1865,Canal Winchester in Canal W
+1866,Central Merry 
+1867,Riordan 
+1868,Joliet 
+1869,St. Croix Lutheran 
+1870,Norwalk 
+1871,Maloney 
+1872,Creekside 
+1873,Oviedo 
+1874,Cary Academy 
+1875,Delbarton 
+1876,Prairie High School 
+1877,John Kennedy 
+1878,Strawberry Mansion 
+1879,Moton 
+1880,Klein Forest 
+1881,Roseville 
+1882,Institute Boboto in K
+1883,Williamson 
+1884,Cherkasy First City Gymnasia 
+1885,Covington Catholic in Cov
+1886,Niles North 
+1887,Clay 
+1888,Cornerstone Christian Academy 
+1889,McDuffie 
+1890,Revere 
+1891,Lawrence Academy 
+1892,Lake Charles 
+1893,Saint Michaels University School 
+1894,San Pedro 
+1895,Okayama Gakugeikan 
+1896,Silverstreet 
+1897,Talbotton 
+1898,Bonner Springs in Bonner Spr
+1899,Fox Chapel 
+1900,Sheldon 
+1901,Hodan Nalayeh SS 
+1902,Keller 
+1903,Cairo 
+1904,Gymnasium 
+1905,Overton 
+1906,Newport Harbor 
+1907,Sprayberry 
+1908,Southfield 
+1909,Choctawhatchee 
+1910,St. Francis in La Cañada Fl
+1911,Rockville 
+1912,Burges 
+1913,Father Michael Goetz Secondary 
+1914,DuBourg 
+1915,Trinity International School 
+1916,Fort Walton Beach 
+1917,The Lawrenceville School 
+1918,Mater Dei Catholic 
+1919,Uniondale 
+1920,Brown Deer 
+1921,Rontgen Gymnasium 
+1922,Weston Ranch 
+1923,The Park School of Buffalo 
+1924,Imo State Secondary 
+1925,Alta Loma 
+1926,Justice 
+1927,Blaine in Bla
+1928,Saint Thomas More 
+1929,Cole 
+1930,Harker Heights 
+1931,Campus Magnet 
+1932,Bayonne 
+1933,John Hay 
+1934,Gardendale 
+1935,Edwardsville 
+1936,Ottawa 
+1937,Whitney Young 
+1938,Westlake 
+1939,Shiloh 
+1940,Esperanza 
+1941,Cem Sultan 
+1942,Muslim Teachers College 
+1943,Reynella East College 
+1944,Hartford 
+1945,Wills 
+1946,Mason City 
+1947,Morrilton 
+1948,Newlands Manorium 
+1949,South Kamloops 
+1950,Viewpoint 
+1951,Episcopal 
+1952,Riverdale Baptist 
+1953,Taylorville 
+1954,Benjamin Harrison 
+1955,Bishop McGuinness 
+1956,Flat Gap 
+1957,Amundsen 
+1958,Bellefontaine in Bellefonta
+1959,Cret
+1960,Starkville 
+1961,McAlester 
+1962,Perry Meridian 
+1963,South Torrance 
+1964,Westwood 
+1965,Mt. Zion Prep 
+1966,Alfred Lawless 
+1967,Rayne 
+1968,Jamestown 
+1969,Phillips Exeter Academy 
+1970,Denison 
+1971,Bishop McDevitt 
+1972,State College 
+1973,Marina in Hunt
+1974,Union Valley 
+1975,Cooper 
+1976,Santa Maria 
+1977,Warren 
+1978,West Forsyth 
+1979,River Dell 
+1980,Archbishop Alter in Ketter
+1981,Jefferson Township 
+1982,Northeast Jones 
+1983,John Ehret 
+1984,Martinsville in Mart
+1985,Escambia 
+1986,Paseo 
+1987,Cathedral Preparatory School 
+1988,Leland 
+1989,Upland 
+1990,Westlake Boys 
+1991,Merritt Island 
+1992,Clifton J. Ozen 
+1993,Shaker 
+1994,Warren Easton 
+1995,Western in Wash
+1996,Thomasville 
+1997,Freehold 
+1998,Brantley 
+1999,Russellville 
+2000,St. Louis Park 
+2001,Anaheim 
+2002,Libertyville 
+2003,Stephenson 
+2004,Avon Old Farms 
+2005,Gymnasium Levice 
+2006,Baton Rouge 
+2007,East Peoria 
+2008,Vicksburg 
+2009,Granite City 
+2010,Blythewood 
+2011,Southern University Laboratory School 
+2012,Stevens 
+2013,Aquinas Institue 
+2014,Winter Park in W
+2015,Adlai E. Stevenson 
+2016,Colton 
+2017,Northern Nash 
+2018,B.F. Terry 
+2019,Mastery Charter North 
+2020,Christ School 
+2021,Osborn 
+2022,Oakland Tech 
+2023,All Hallows 
+2024,Menchville 
+2025,Newport 
+2026,Abbeville 
+2027,Booker 
+2028,Tolton 
+2029,Scott County Central 
+2030,South Division 
+2031,R.B. Chamberlain in Tw
+2032,Kozchagin 
+2033,Mentor 
+2034,Riverdale 
+2035,Medford Tech 
+2036,Meadowdale 
+2037,Waltham 
+2038,William R. Boone 
+2039,Enid 
+2040,Clear Brook 
+2041,West Linn in West L
+2042,Caesar Rodney 
+2043,Lake Forest Academy 
+2044,Monticello 
+2045,DeQuincy in DeQu
+2046,College Park 
+2047,Upper Room Christian Academy 
+2048,Boulder Prep 
+2049,Johnson 
+2050,North County 
+2051,Hughes in Cinc
+2052,The John Carroll School 
+2053,Dublin Coffman in Dubl
+2054,Cheney 
+2055,Technical School Ctr 
+2056,Ferris 
+2057,Forest 
+2058,Cupertino in Cupert
+2059,Madisonville 
+2060,Mansfield Summit in Arl
+2061,Cherry Creek 
+2062,Prestonwood Christian 
+2063,Carson 
+2064,Auburn 
+2065,Demopolis 
+2066,Sims 
+2067,Landry 
+2068,Cedar Ridge 
+2069,Bolivar Central 
+2070,Naples 
+2071,Cave Spring 
+2072,Princeton Day School in Pr
+2073,Provine 
+2074,Wekiva 
+2075,LaPorte 
+2076,Pelham 
+2077,Gans 
+2078,Largo 
+2079,Kempsville in Virg
+2080,Samuel Clemens 
+2081,Boyd Anderson 
+2082,Nappanee 
+2083,Bishop Borgess 
+2084,Pearland 
+2085,Alexander Hamilton 
+2086,Baldwin HS in Baldw
+2087,Pottstown 
+2088,Encinal 
+2089,Martin 
+2090,Euclid 
+2091,The Phelps School 
+2092,Ocoee 
+2093,Williamstown 
+2094,Pedro Albizu 
+2095,Greeley 
+2096,Groveland 
+2097,Riverside 
+2098,Lamar 
+2099,Barberton 
+2100,West in Sa
+2101,Brother Martin 
+2102,Castlemont 
+2103,Osbourn Park 
+2104,Christchurch School 
+2105,Lake Central 
+2106,Monsignor McClancy 
+2107,St. James School 
+2108,Airline 
+2109,Chalmette 
+2110,Woodlawn in Birm
+2111,Country Day 
+2112,Wendell Phillips 
+2113,Hilo 
+2114,Huntington Park in Hunt
+2115,Lindsay in L
+2116,Breck School 
+2117,La Quinta in Westm
+2118,Linden in L
+2119,Wickliffe 
+2120,Dakota HS 
+2121,Crisp County 
+2122,Nettleton 
+2123,Staunton Military Academy 
+2124,McBride 
+2125,Karns 
+2126,Chadsey 
+2127,Beaver Falls 
+2128,Wasatch Academy 
+2129,Syosset 
+2130,Bowling Green in Bowl
+2131,Southeast 
+2132,Shaker Heights 
+2133,John Glenn 
+2134,Eastman 
+2135,DeRidder 
+2136,Princeton in Pr
+2137,Sachem 
+2138,Westport 
+2139,Pembroke Hill 
+2140,I.M. Terrell 
+2141,Handsworth Secondary School 
+2142,Laramie 
+2143,Millard North 
+2144,Wheeling Central Catholic in Wheel
+2145,Harrisonburg 
+2146,The Rivers School 
+2147,E.E.M. No. 3 
+2148,Stivers 
+2149,T.W. Josey 
+2150,Port St. Lucie 
+2151,Seward Park 
+2152,Our Savior New American 
+2153,Ardenne in K
+2154,Overtime Elite Academy 
+2155,Red Oak 
+2156,Mohawk 
+2157,Manlius Military Academy 
+2158,Enumclaw 
+2159,Racine Lutheran in Rac
+2160,Wausau 
+2161,Bishop Montgomery 
+2162,Soldan 
+2163,Newark 
+2164,Forest Hills Northern 
+2165,Saint Joseph in Sa
+2166,Bloomfield Technical 
+2167,Sublette 
+2168,Wesclin 
+2169,Stephen Decatur 
+2170,Calumet 
+2171,Waterloo 
+2172,Flint Hill 
+2173,Eastside 
+2174,McIntosh County Academy 
+2175,Lake Taylor 
+2176,McLain 
+2177,Saint Nicholas of Tolentine 
+2178,Watsonville Union 
+2179,Hargrave Military Academy 
+2180,Camp Verde 
+2181,American School 
+2182,Logan 
+2183,Lake Highland Preparatory 
+2184,Myrtle Beach 
+2185,Samil Commercial 
+2186,Baldwin in Baldw
+2187,Park Hill 
+2188,Pawtucket 
+2189,Western Hills in Cinc
+2190,Porterville 
+2191,South Central in W
+2192,H. B. Beal Secondary School 
+2193,Manor in Aust
+2194,Davis 
+2195,McIntosh 
+2196,North Laurel 
+2197,Jefferson West 
+2198,Blair 
+2199,Oak Park and River Forest 
+2200,Saint Anne in Sa
+2201,Richmond Academy 
+2202,Leavenworth 
+2203,West Brunswick 
+2204,Smiley 
+2205,Friendly in Fort Wash
+2206,Lima Central Catholic 
+2207,Paris 
+2208,Noble and Greenough School 
+2209,United Faith Christian 
+2210,Cristo Rey Jesuit in M
+2211,South Medford 
+2212,Dunwoody 
+2213,McMinnville in McM
+2214,Temple 
+2215,Worcester Tech 
+2216,Brainerd in Bra
+2217,Bloom Township 
+2218,Pinewood Prep 
+2219,Riley HS 
+2220,Edward S. Marcus 
+2221,Ellenboro 
+2222,Waterman 
+2223,Farmington in Farm
+2224,New York Military Academy 
+2225,All Saints in Wash
+2226,Kolbe Cathedral 
+2227,Adams 
+2228,Trinity Christian 
+2229,Hogansville 
+2230,Roosevelt in M
+2231,Oldham County 
+2232,Caldwell County 
+2233,Central Cabarrus 
+2234,Sandy Creek 
+2235,Platte Valley 
+2236,Maury 
+2237,West Covina in West Cov
+2238,Bay City 
+2239,Simmons 
+2240,Los Altos 
+2241,West Monroe 
+2242,The Key School 
+2243,Forrest 
+2244,Bellport 
+2245,Farmville Central 
+2246,Bay 
+2247,George Bush 
+2248,Lakeview Centennial 
+2249,Almonta in E
+2250,Eastdale 
+2251,Hazelwood Central 
+2252,Saint Bonaventure Academy 
+2253,Itchen College 
+2254,East Hartford 
+2255,Findlay in F
+2256,Jean Di La Fontaine 
+2257,Bloomington South in Bloom
+2258,Pontiac 
+2259,Scottsville 
+2260,Watertown 
+2261,Godwin Heights 
+2262,Bruton Heights 
+2263,Rocky River in M
+2264,Dublin in Dubl
+2265,Cheatham County 
+2266,Morgan County Training School 
+2267,Tulsa Central 
+2268,Quaker Valley 
+2269,Newport Catholic 
+2270,Bainbridge in Ba
+2271,South Christian 
+2272,North Springs in Sandy Spr
+2273,Allen 
+2274,McQuaid Jesuit 
+2275,Shelbyville 
+2276,Randolph 
+2277,East in L
+2278,Gonzaga Prep 
+2279,Southwind 
+2280,Holy Redeemer 
+2281,Bellevue 
+2282,William Grant in Cov
+2283,Dos Pueblos 
+2284,McNair 
+2285,Truman 
+2286,Bishop Kenny 
+2287,Port Townsend 
+2288,Forest Glen 
+2289,West Union 
+2290,Amos Alonzo Stagg 
+2291,Kentwood in Cov
+2292,Worcester Classical 
+2293,McDonogh School in Ow
+2294,Lovejoy 
+2295,G.A.R. Memorial 
+2296,Grover Cleveland 
+2297,Father Judge 
+2298,Douglass 
+2299,Owingsville in Ow
+2300,Oxon Hill 
+2301,Olmstead 
+2302,Postville 
+2303,Cold Spring Harbor in Cold Spr
+2304,Saint Casimir 
+2305,Noshiro Kogyo 
+2306,Beaverton 
+2307,The Village School 
+2308,Tavares 
+2309,Howard 
+2310,Tates Creek in Lex
+2311,Broaddus 
+2312,Medina in Med
+2313,St. Elizabeth 
+2314,Northern in Fl
+2315,Loyola College Preparatory School 
+2316,Oscar F. Smith 
+2317,Schenectady 
+2318,Albuquerque 
+2319,Onalaska 
+2320,Paterson Catholic 
+2321,Wesleyan School 
+2322,Littleton 
+2323,Crest 
+2324,Redondo Union 
+2325,Lenape 
+2326,Santa Margarita 
+2327,West Anchorage 
+2328,Tara 
+2329,Lake Worth Community 
+2330,Lockport 
+2331,Eastside Catholic 
+2332,Forest Hills Central 
+2333,Trimble 
+2334,Madison Heights 
+2335,Kickapoo in Spr
+2336,Glenn in Birm
+2337,Twin Falls in Tw
+2338,Woodstock Academy 
+2339,Heritage 
+2340,Castro Valley 
+2341,Oak Hill 
+2342,Shady Grove 
+2343,Covington in Cov
+2344,Willetton Senior High School 
+2345,Hamilton Township 
+2346,Hilltop 
+2347,Mountain Mission School 
+2348,English 
+2349,Northside Christian Academy 
+2350,Aust
+2351,Trimble Technical 
+2352,Beaver Country Day 
+2353,San Diego 
+2354,Atherton 
+2355,Piedmont 
+2356,John Paul II 
+2357,Marian Catholic 
+2358,Seneca 
+2359,Scranton Prep 
+2360,Norfolk Catholic 
+2361,Diamond Bar 
+2362,Clinton in Cl
+2363,Valders 
+2364,Victory Prep Academy 
+2365,Hillsdale 
+2366,Peachtree Ridge 
+2367,Tamms 
+2368,Cameron 
+2369,Whites Creek 
+2370,East Kentwood 
+2371,Hanford 
+2372,Lansing Eastern in Lans
+2373,Northampton County 
+2374,Natrona County 
+2375,Ephrata 
+2376,Viewmont 
+2377,The Hill School 
+2378,St. John 
+2379,Richards 
+2380,Banning 
+2381,Heritage Christian Academy 
+2382,Winona in W
+2383,Harrison County 
+2384,Raytown South 
+2385,Miami Beach 
+2386,Southampton 
+2387,North College Hill in Cinc
+2388,Susquehannock 
+2389,Boston Trade 
+2390,Crawford County 
+2391,Penn Manor 
+2392,Garner 
+2393,Childersburg 
+2394,Fells Township 
+2395,Brownsville 
+2396,Faith Family Academy 
+2397,Germantown Academy in Fort Wash
+2398,McKinney in McK
+2399,Helix 
+2400,Chandler Park Academy 
+2401,Gahr 
+2402,North Little Rock 
+2403,Ridgeview 
+2404,South Marshall 
+2405,Township in Burl
+2406,University City 
+2407,Saint Anthony in Wash
+2408,Boys and Girls 
+2409,Cesar Chavez HS 
+2410,Norman North 
+2411,Mountain Brook in Mounta
+2412,Fike 
+2413,Paradise Valley 
+2414,Henry Weather in Roll
+2415,Motley 
+2416,Velma Jackson 
+2417,Oaks Virtual 
+2418,West Milwaukee 
+2419,Plainfield in Pla
+2420,Carl Albert 
+2421,Mullen 
+2422,Barnesville 
+2423,Parkland 
+2424,Athens Area 
+2425,Mayde Creek 
+2426,East Bank 
+2427,Douglas County 
+2428,Leuzinger 
+2429,Aviation 
+2430,Wilson Memorial 
+2431,Phillips in Birm
+2432,Sarasota 
+2433,Miller School of Albemarle 
+2434,Greenfield School 
+2435,Legend 
+2436,Sacred Heart 
+2437,Decatur 
+2438,Cardinal Ritter 
+2439,Huntington 
+2440,Tuskegee 
+2441,Christian County in Hopk
+2442,Oakland Mills 
+2443,Fulton 
+2444,Muscatine in Muscat
+2445,McNicholas in Cinc
+2446,Grimsley 
+2447,North Lenoir 
+2448,River Rouge 
+2449,Normandy 
+2450,Puxico 
+2451,Cass 
+2452,Mays 
+2453,Rufus King 
+2454,Riverside University 
+2455,Trinity Catholic HS in Nott
+2456,Jack Britt 
+2457,The Colony 
+2458,La Mirada 
+2459,Lawrence E Elkins HS 
+2460,Norristown 
+2461,Marion Franklin 
+2462,Saint Amant in Sa
+2463,Dupont 
+2464,Saint Edward 
+2465,University Prep Charter 
+2466,Magruder 
+2467,Torrington in Torr
+2468,Waco University 
+2469,South Gwinnett 
+2470,Norfolk Academy 
+2471,Bremerton 
+2472,Nogales 
+2473,Prince George in Pr
+2474,North Caddo 
+2475,Weirton 
+2476,Glen A. Wilson 
+2477,Southside 
+2478,Richland Northeast 
+2479,Phoebus 
+2480,Crossland 
+2481,Colfax 
+2482,Wilbur Cross 
+2483,Spartanburg Day School 
+2484,Dwight Morrow 
+2485,Archbishop Shaw 
+2486,Kelly Miller 
+2487,Hadley Technical 
+2488,Capital Christian 
+2489,John H. Guyer 
+2490,William Horlick in Rac
+2491,Edward Bok Tech 
+2492,Manassas 
+2493,Leesville 
+2494,Tryon 
+2495,University of Detroit Jesuit 
+2496,Slayton 
+2497,Gage Park 
+2498,Marlington 
+2499,East Brunswick 
+2500,Kohler 
+2501,St. Cloud Tech 
+2502,Jones County 
+2503,East Hampton 
+2504,St. Monica 
+2505,Alcoa 
+2506,Myers Park 
+2507,Blanchet 
+2508,Murphy 
+2509,Aycock 
+2510,Champlin Park in Champl
+2511,High School for Construction 
+2512,Orange Lutheran 
+2513,Mount Hebron 
+2514,Harbor 
+2515,East Coweta 
+2516,St. George 
+2517,Woodway 
+2518,Arabska Secondary 
+2519,Wossman 
+2520,Port Perry 
